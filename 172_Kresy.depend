@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672565788 source:d:\portfolio_it\c++\172_kresy\main.cpp
+	<iostream>
+	<algorithm>
+
